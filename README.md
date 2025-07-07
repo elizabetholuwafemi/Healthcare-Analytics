@@ -76,5 +76,5 @@ Click the link below to explore the interactive Power BI dashboard:
 Have suggestions or questions?  
 Feel free to open an issue or connect with me directly. I’d love to hear your thoughts and feedback.
 
-You can also reach out to me on [LinkedIn](https://www.linkedin.com/in/elizabeth-oluwafemi/) if you'd like to connect
+You can also reach out to me on [LinkedIn](https://www.linkedin.com/in/elizabeth-oluwafemi-2b3b722b0/) if you'd like to connect
 
